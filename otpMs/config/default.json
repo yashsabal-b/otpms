@@ -1,0 +1,21 @@
+{
+  "PORT": 5001,
+  "URL": "http://192.168.68.133:5000",
+  "SECRET_KEYS": {
+    "JWT": "CS.CODE.IN",
+    "CRYPTO": "CS21.CODE.IN"
+  },
+  "SEND_SMS": {
+    "TWILIO_SID": "ACc99c8b400751ad3fb28d729f4b3e7465",
+    "TWILIO_TOKEN": "3eb5d53adb7b1e758ffeeec2f6972327",
+    "TWILIO_NUMBER": "+16066127657"
+  },
+  "EMAIL_SMTP": {
+    "HOST": "mail.csmafia.com",
+    "AUTH": {
+      "USER": "cfi@csmafia.com",
+      "PASSWORD": "codeforindiaFTW"
+    },
+    "PORT": 465
+  }
+}
